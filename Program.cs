@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 
 
-namespace Zadacha1
+namespace LABA
 {
     class Address
     {
